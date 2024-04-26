@@ -104,6 +104,8 @@ volumes:
 
 
 
+
+
 второй хост
 
 
@@ -134,6 +136,7 @@ scrape_configs:
 
 
 
+
 nano docker-compose.yml
 
 version: "3.8"
@@ -154,4 +157,4 @@ dashboards
 893
 1860
 14727
-![image](https://github.com/mltop-23/rebrain_prometheus/assets/87617943/b290709a-915a-4e3b-9034-9307a092e7e2)
+
